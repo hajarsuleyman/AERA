@@ -1,0 +1,286 @@
+.logo{
+   
+   
+    padding-left: 135px;
+    display: flex;
+}
+
+.menu-top{
+    padding-top: 22px;
+    padding-bottom: 22px;
+    background-color: #F2F5FB;
+
+    display: flex;
+}
+.menu-col{
+    display: flex;
+    justify-content: space-between;
+}
+.logo img{
+    border-right: 1px solid rgb(71, 153, 247);
+     padding-right: 31px;
+}
+.logo p{
+    padding-left: 31px;
+    margin-bottom: 0%;
+    
+}
+logo a{
+    text-decoration: none;
+}
+.icons{
+    display: flex;
+    margin-top: 15px;
+}
+.icons button{
+width: 106px;
+height: 34px;
+background-color: white;
+border: none;
+justify-content: flex-end;
+margin-left: 70px;
+
+}
+.icons i{
+    margin-left: 25px;
+   color: #1B77BD;
+   
+}
+.icons .btn2{
+    border-radius:15px ;
+    background-color: #1B77BD;
+    color: white;
+    width: 80px;
+    height: 34px;
+    margin-left: 40px;
+    
+
+}
+ .icons .btn2 i{
+    color: white;
+
+
+}
+#dropdownMenuButton
+{
+    background-color: transparent;
+    margin-left: 0px;
+    margin-right: 135px;
+    color:#1B77BD;
+}
+.icons a{
+    margin-top: 7px;
+}
+.fas fa-phone-alt{
+    color: white;
+}
+.btn2 a{
+    color: white;
+    margin: 0;
+    padding-top: 5px;
+    padding-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.menu2{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    padding-left: 130px;
+    padding-right: 130px;
+    color:#0A3352;
+    padding-top: 12px;
+    padding-bottom: 10px;
+  
+}
+.menu2 a{
+    color:#0A3352;
+}
+#home
+{
+    color: #1B77BD;
+}
+
+#blog{
+    background-color: #F2F5FB;
+}
+
+.title h1{
+    font-size: 25px;
+    padding-left: 195px;
+    padding-top: 57px;
+    color: #1B77BD
+}
+.title p{
+    color: #0A3352;
+}
+.blog12{
+    display: flex;
+}
+.blogs{
+    padding-bottom: 30px;
+}
+.blog1 h1{
+  color: #0A3352 ; 
+  font-size: 25px;
+  padding-top: 30px;
+
+}
+.blog2 h1{
+    color: #0A3352 ; 
+    font-size: 25px;
+    padding-top: 30px;
+}
+.titles{
+    display: flex;
+}
+.title1{
+    display: flex;
+    padding-left: 175px;
+    padding-top: 50px;
+    color: #0A3352;
+}
+.display1 img{
+    object-fit: cover;
+}
+.title2{
+    display: flex;
+    padding-right: 100px !important;
+    padding-top: 50px;
+    color: #0A3352;
+}
+
+.display{
+    object-fit: cover;
+}
+.head1{
+    margin-left: 55px;
+}
+.head{
+    padding-left: 55px;
+}
+.text-section{
+    background-color: #fff !important;
+    padding-bottom: 100px;
+   
+}
+
+.footer{
+    background: royalblue;
+    width: 100%;
+    height: 700px;
+    object-fit: cover;
+    
+}
+
+.section5{
+    background: royalblue;
+}
+.logo img{
+    color: white;
+}
+.footimg{
+    padding-top: 80px;
+}
+.two{ 
+    margin-left: 35px;
+}
+.three{    margin-left: 35px;
+}
+   .four{
+    margin-left: 35px;
+   }
+   .final
+   {
+       display: flex;
+       color: rgb(255, 255, 255);
+   }
+   .li ul{
+       list-style:none;
+   }
+   .li2 ul{
+    list-style:none;
+}
+.foot-logo{
+    padding-top: 90px;
+}
+.li {
+    padding-top: 200px;
+}
+.li2{
+    padding-top: 200px;
+}
+.licons{
+    color: white;
+    padding-top: 30px;
+}
+#foot{
+    color: rgb(253, 253, 253);
+}
+.licons a{
+    color: rgb(255, 255, 255);
+   padding-right: 25PX;
+}
+.footer h1{
+    font-size: 20px;
+}
+.menu2 a{
+    text-decoration: none;
+}
+.search input{
+    border: none;
+    outline: none;
+}
+.search{
+    display: flex;
+}
+.search input{
+    width: 90px;
+}
+.searchh{
+    background-color: white;
+    padding-top: 8px;
+    padding-right: 7px;
+}
+#enerji{ padding-top: 25px;
+
+}
+.blogS{
+    background-color:#F2F5FB ;
+}
+.BlogS{
+    padding-top: 50px;
+    font-size: 25px;
+    padding-left: 32px;
+    color: royalblue;
+    
+}
+.hr {
+    border-top: 1px solid rgb(4, 158, 209);
+  }
+  .hr {
+      font-size: 20px;
+      color: white;
+      text-align: center;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      margin: 0;
+  }
+  #agent{
+      text-decoration: none;
+  }
+  .head-links{
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+      margin-bottom: 20px
+  }
+  .head-links a{
+      padding-top: 30px
+      ;
+      align-items: center;
+      display: flex;
+      height: 100%;
+  }
